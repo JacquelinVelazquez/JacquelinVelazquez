@@ -3,7 +3,7 @@ Hi 👋! My name is Jacquelin Velázquez and I'm an ITC student at ITESM Campus 
 </h2>
 
 <p>
-Computer Engineering student with interest in software development, databases, version control systems (Git) and emerging technologies.<br>
+Computer Engineering student with interest in software development, databases, version control systems and emerging technologies.<br>
 Focused on building solid technical foundations while continuously learning and improving through academic and personal projects.
 </p>
 
