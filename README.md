@@ -1,9 +1,5 @@
 <h2 align="left">Hi 👋! My name is Jacquelin Velázquez and I'm an ITC student at ITESM Campus Toluca, from Mexico </h2>
 
-<div align="center">
-  <img src="https://github.com/JacquelinVelazquez.png?size=200" height="150" alt="Jacquelin Velazquez profile picture" />
-</div>
-
 ###
 
 <div align="center">
@@ -14,9 +10,16 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.instagram.com/sunlin_24/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge"
+         height="35" alt="Instagram" />
+  </a>
+
+  <a href="www.linkedin.com/in/jacquelin-velázquez-ramírez-463647366" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"
+         height="35" alt="LinkedIn" />
+  </a>
+
 </div>
 
 ###
